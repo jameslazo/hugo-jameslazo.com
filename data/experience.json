@@ -1,0 +1,14 @@
+[
+    {
+        "role":"DevOps Assistant",
+        "company":"KubeCraft",
+        "summary":"\n- Own and manage Kubernetes cluster with GitOps principles and observability\n- Contribute to open source projects, supporting more sophisticated or stable integrations\n- Support and assist team through documentation, research and troubleshooting",
+        "range":"March 2025 - Present"
+    },
+    {
+        "role":"AWS Infrastructure & DevOps Engineer",
+        "company":"Acme Cloud",
+        "summary":"- Develop and automate CI/CD pipelines with GitHub Actions, reducing deployment times by 150%\n- Migrate traditional apps to Kubernetes, leveraging high-availability, orchestration and automation\n- Automate unit/regression testing and reporting, boosting development time by up to 20%\n- Contribute to open source projects, supporting more sophisticated or stable integrations\n- Provision Infrastructure as Code with Terraform & CloudFormation, improving deployment consistency while reducing deployment times by up to 300%\n- Design Multi-AZ failover deployments provisioned from the VPC up entirely in IaC, decoupling application and data tiers for 4x app resilience\n- Monitor deployments to efficiently resolve problems and reduce mean time to recovery by 5-10 times\n- Test on-premises and cloud API routes, ensuring secure and reliable cross-service communication",
+        "range":"April 2024 - Present"
+    }
+]

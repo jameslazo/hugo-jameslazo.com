@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bash on James Lazo</title>
+    <link>http://localhost:1313/tags/bash/</link>
+    <description>Recent content in Bash on James Lazo</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/bash/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitHub Actions Workflow</title>
+      <link>http://localhost:1313/projects/contributions/kc-gha-workflow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/contributions/kc-gha-workflow/</guid>
+      <description>&lt;p&gt;The GHA workflow executes a script and runs steps that perform the following:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Scans commits for docs in the subject&lt;/li&gt;&#xA;&lt;li&gt;Formats docs commits into a brief description with committer and hash information&lt;/li&gt;&#xA;&lt;li&gt;Groups commits by date&lt;/li&gt;&#xA;&lt;li&gt;Creates a new list of commits for publication when new docs commits are made&lt;/li&gt;&#xA;&lt;li&gt;Creates a PR to merge the updated list of commits&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

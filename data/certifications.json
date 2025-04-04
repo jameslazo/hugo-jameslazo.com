@@ -1,0 +1,51 @@
+[
+	{
+		"name":"AWS Solutions Architect",
+		"description": "AWS Certified Solutions Architect – Associate",
+		"badge":"https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png",
+		"proof":"https://www.credly.com/badges/b9dbf6fc-8287-4ed3-b74a-d25d321f2116"
+
+	},
+	{
+		"name":"AWS Certified Cloud Practitioner",
+		"description": "AWS Certified Cloud Practitioner",
+		"badge":"https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png",
+		"proof":"https://www.credly.com/badges/6f31fad6-bfad-44dd-ae5e-4ef1793191fe"
+
+	},
+	{
+		"name":"CompTIA Cloud+",
+		"description": "CompTIA Cloud+",
+		"badge":"https://images.credly.com/size/340x340/images/b2e3c623-cc4a-4f0c-8a3b-aa6231e138fe/blob",
+		"proof":"https://www.credly.com/badges/c8f67415-a3d2-4c43-a569-adecfe9638a6"
+
+	},
+	{
+		"name":"CompTIA Linux+",
+		"description": "CompTIA Linux+",
+		"badge":"https://images.credly.com/size/340x340/images/c8ba8fa6-ab8b-4df7-879f-4ae7b98b2765/blob",
+		"proof":"https://www.credly.com/badges/ce85fa0b-b663-4673-8ad3-273bdc5b8c92"
+		
+	},
+	{
+		"name":"CompTIA Security+",
+		"description": "CompTIA Security+",
+		"badge":"https://images.credly.com/size/340x340/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob",
+		"proof":"https://www.credly.com/badges/0ca11665-8215-45f2-8346-cf0d546bed1c"
+		
+	},
+	{
+		"name":"CompTIA Network+",
+		"description": "CompTIA Network+",
+		"badge":"https://images.credly.com/size/340x340/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob",
+		"proof":"https://www.credly.com/badges/89fe7801-eb45-4437-ab9f-b2ac554a5735"
+		
+	},
+	{
+		"name":"CompTIA A+",
+		"description": "CompTIA A+",
+		"badge":"https://images.credly.com/size/340x340/images/f6d62c5d-1e1d-4de6-92ee-8dc8c80b1c7b/blob",
+		"proof":"https://www.credly.com/badges/8c3ef07f-e020-4198-a6a6-9399db594530"
+		
+	}
+]

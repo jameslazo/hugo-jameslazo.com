@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on James Lazo</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on James Lazo</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Jan 2009 14:09:10 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitHub Actions Workflow</title>
+      <link>http://localhost:1313/projects/contributions/kc-gha-workflow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/contributions/kc-gha-workflow/</guid>
+      <description>&lt;p&gt;The GHA workflow executes a script and runs steps that perform the following:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Scans commits for docs in the subject&lt;/li&gt;&#xA;&lt;li&gt;Formats docs commits into a brief description with committer and hash information&lt;/li&gt;&#xA;&lt;li&gt;Groups commits by date&lt;/li&gt;&#xA;&lt;li&gt;Creates a new list of commits for publication when new docs commits are made&lt;/li&gt;&#xA;&lt;li&gt;Creates a PR to merge the updated list of commits&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Forcing Visits to use SSL</title>
+      <link>http://localhost:1313/blog/force-ssl/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      <guid>http://localhost:1313/blog/force-ssl/</guid>
+      <description>&lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;&#xA;&lt;p&gt;Doesn&amp;rsquo;t matter whether it&amp;rsquo;s a CakePHP app for a client, your own personal CMS, or any other web based application. &lt;strong&gt;If your passing around passwords or other sensitive info you should really implement SSL.&lt;/strong&gt; SSL provides 2 main perks to your visitors.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;First it encrypts all communication that flies across the web. This prevents curious or devious billies from getting your secrets.&lt;/li&gt;&#xA;&lt;li&gt;Secondly it ensures to the user that your server is in fact who it claims, and not a nasty &amp;lsquo;man in the middle&amp;quot; attack.&lt;/li&gt;&#xA;&lt;li&gt;Finally it gives your site that touch of class&amp;hellip;. which of course a classy person like yourself relies on.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Once you implement SSL certificates on your server you&amp;rsquo;ll want to &lt;strong&gt;require secure connections&lt;/strong&gt; using Apache&amp;rsquo;s rewrite module. Now I won&amp;rsquo;t dwell on the creation and signing of certificates, its already well documented.  If your just starting out though,heres a few links I recommend;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>API Server</title>
+      <link>http://localhost:1313/projects/deployments/api-server/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/deployments/api-server/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Provisioned entire data lake pipeline as IaC with Terraform&lt;/li&gt;&#xA;&lt;li&gt;Automated CI/CD workflow deploying Lambda functions to AWS with GitHub Actions&lt;/li&gt;&#xA;&lt;li&gt;Decoupled API call function from data extraction function with S3 bucket trigger&lt;/li&gt;&#xA;&lt;li&gt;Configured CloudWatch logs for observability &amp;amp; troubleshooting&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Data Lake Pipeline</title>
+      <link>http://localhost:1313/projects/deployments/data-lake-pipeline/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/deployments/data-lake-pipeline/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Provisioned entire data lake pipeline as IaC with Terraform&lt;/li&gt;&#xA;&lt;li&gt;Automated CI/CD workflow deploying Lambda functions to AWS with GitHub Actions&lt;/li&gt;&#xA;&lt;li&gt;Decoupled API call function from data extraction function with S3 bucket trigger&lt;/li&gt;&#xA;&lt;li&gt;Configured CloudWatch logs for observability &amp;amp; troubleshooting&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Game Reel Highlight Processor</title>
+      <link>http://localhost:1313/projects/deployments/fargate-highlight-processor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/deployments/fargate-highlight-processor/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Developed IaC for VPC architecture: subnets, security groups, route tables, etc.&lt;/li&gt;&#xA;&lt;li&gt;Automated CI/CD workflow pushing Docker images to AWS ECR with GitHub Actions&lt;/li&gt;&#xA;&lt;li&gt;Deployed fully serverless highlight processing application&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Search Results</title>
+      <link>http://localhost:1313/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/search/</guid>
+      <description>&lt;p&gt;This file exists solely to respond to /search URL with the related &lt;code&gt;search&lt;/code&gt; layout template.&lt;/p&gt;&#xA;&lt;p&gt;No content shown here is rendered, all content is based in the template layouts/page/search.html&lt;/p&gt;&#xA;&lt;p&gt;Setting a very low sitemap priority will tell search engines this is not important content.&lt;/p&gt;&#xA;&lt;p&gt;This implementation uses Fusejs, jquery and mark.js&lt;/p&gt;&#xA;&lt;h2 id=&#34;initial-setup&#34;&gt;Initial setup&lt;/h2&gt;&#xA;&lt;p&gt;Search  depends on additional output content type of JSON in config.toml&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;[outputs]&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  home = [&amp;#34;HTML&amp;#34;, &amp;#34;JSON&amp;#34;]&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;searching-additional-fileds&#34;&gt;Searching additional fileds&lt;/h2&gt;&#xA;&lt;p&gt;To search additional fields defined in front matter, you must add it in 2 places.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

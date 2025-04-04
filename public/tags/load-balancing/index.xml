@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Load-Balancing on James Lazo</title>
+    <link>http://localhost:1313/tags/load-balancing/</link>
+    <description>Recent content in Load-Balancing on James Lazo</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/load-balancing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>API Server</title>
+      <link>http://localhost:1313/projects/deployments/api-server/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/deployments/api-server/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Provisioned entire data lake pipeline as IaC with Terraform&lt;/li&gt;&#xA;&lt;li&gt;Automated CI/CD workflow deploying Lambda functions to AWS with GitHub Actions&lt;/li&gt;&#xA;&lt;li&gt;Decoupled API call function from data extraction function with S3 bucket trigger&lt;/li&gt;&#xA;&lt;li&gt;Configured CloudWatch logs for observability &amp;amp; troubleshooting&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
